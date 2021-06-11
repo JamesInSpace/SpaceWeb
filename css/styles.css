@@ -1,0 +1,48 @@
+body{
+  background-color: #EBFDF5;
+}
+
+hr{
+  width: 7%;
+  align-items: center;
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #FAF0C9;
+}
+
+h1{
+  font-variant: small-caps;
+  color: #BFA87E;
+}
+
+h3{
+  font-family: monospace;
+  color: #BFA87E;
+}
+
+
+img:hover{
+  background-color: green;
+}
+
+/* class selectors */
+
+.tree{
+  background-color: lightblue;
+}
+
+.rock{
+  background-color: lightgreen;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+/* ID selectors */
+
+#pictures{
+  color: blue;
+}
